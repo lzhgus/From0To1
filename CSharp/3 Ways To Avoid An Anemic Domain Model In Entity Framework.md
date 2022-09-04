@@ -1,0 +1,1 @@
+[3 Ways To Avoid An Anemic Domain Model In Entity Framework (devtrends.co.uk)](https://www.devtrends.co.uk/blog/3-ways-to-avoid-an-anemic-domain-model-in-ef-core)
